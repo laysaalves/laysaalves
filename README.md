@@ -2,5 +2,5 @@ I've been in the world of technology since I was a child, I'm passionate about r
 
 You can find me at:
 
-[Linkedin](https://www.linkedin.com/in/laysaalves/) <br />
+[LinkedIn](https://www.linkedin.com/in/laysaalves/) <br />
 [@layseiras_ no Instagram](https://instagram.com/layseiras_) <br />
