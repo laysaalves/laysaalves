@@ -1,6 +1,6 @@
 <a href="https://github.com/laysaalves/laysaalves/blob/main/README.md">Don't speak Portuguese? Click here to view the english version!</a>
 
-Estou no mundo da tecnologia desde criança, sou apaixonada por robôs e por trabalhar em projetos que aquecem minha criatividade. Não perco oportunidades de melhorar como pessoa e profissionalmente, além de acreditar no poder da produtividade de um ambiente saudável para qualquer equipe que eu faça parte.
+Estou no mundo da tecnologia desde criança, sou apaixonada por robôs e por trabalhar em projetos que despertam minha criatividade. Não perco oportunidades de melhorar como pessoa e profissionalmente, além de acreditar no poder da produtividade de um ambiente saudável para qualquer equipe da qual eu faça parte.
 
 Conecte-se comigo em outras redes:
 
