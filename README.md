@@ -8,7 +8,7 @@ You can find me at:
 [@layseiras_  lá no Instagram](https://instagram.com/layseiras_) <br />
 
 
-
+<p align="left"><img src="https://komarev.com/ghpvc/?username=laysaalves&label=Profile%20views&color=0e75b6&style=flat" alt="laysaalves"/></p>
 
 
 <div align="center">
