@@ -3,6 +3,7 @@
 I've been in the world of technology since I was a child, I'm passionate about robots and working on projects that spark my creativity. I don't miss opportunities to improve as a person and professionally, and I believe in the productivity power of a healthy environment for any team I'm part of.
 
 Visit my repositories and get to know my hard skills, here are some of them:
+[(https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,javascript,nodejs,mysql,mongodb)](https://skillicons.dev)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind](https://tailwindcss.com/)
