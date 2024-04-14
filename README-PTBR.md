@@ -13,7 +13,7 @@ Visite meus repositórios e conheça minhas habilidades, aqui estão algumas del
 - [React](https://react.dev/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [NodeJS](https://nodejs.org/docs/latest/api/)
-- Bancos de dados relacionais e não relacionais: [SQL Server](https://learn.microsoft.com/en-us/sql/sql-server/what-is-sql-server?view=sql-server-ver16) | [MySQL](https://dev.mysql.com/doc/) | [MongoDB](https://www.mongodb.com/docs/)
+- Bancos de dados relacionais e não relacionais: [SQLite](https://www.sqlite.org/) | [MySQL](https://dev.mysql.com/doc/) | [MongoDB](https://www.mongodb.com/docs/)
 
 Conecte-se comigo em outras redes:
 
