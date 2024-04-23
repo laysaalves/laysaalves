@@ -1,6 +1,6 @@
 <a href="https://github.com/laysaalves/laysaalves/blob/main/README-PTBR.md">Não fala inglês? Clique aqui para ler em português!</a>
 
-I've been in the world of technology since I was a child, I'm passionate about robots and working on projects that spark my creativity. I don't miss opportunities to improve as a person and professionally, and I believe in the productivity power of a healthy environment for any team I'm part of.
+I've been in the world of technology since I was a child, I'm a robotics enthusiast and I like to dedicate myself 100% to projects that spark my creativity. I don't miss opportunities to improve as a person and professionally, and I believe in the productivity power of a healthy environment for any team I'm part of.
 
 Visit my repositories and get to know my hard skills, here are some of them:
 
