@@ -2,7 +2,7 @@
 
 Estou no mundo da tecnologia desde criança, sou entusiasta em robótica e gosto me dedicar 100% em projetos que aquecem minha criatividade. Não perco oportunidades de melhorar como pessoa e profissionalmente, além de acreditar no poder da produtividade de um ambiente saudável para qualquer equipe da qual eu faça parte.
 
-Visite meus repositórios e conheça minhas habilidades, aqui estão algumas delas:
+Visite meus repositórios e conheça as minhas especialidades, aqui estão algumas delas:
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,javascript,nodejs,mysql,mongodb)](https://skillicons.dev)
 
