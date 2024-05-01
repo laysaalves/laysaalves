@@ -4,7 +4,7 @@ Estou no mundo da tecnologia desde criança, sou entusiasta em robótica e gosto
 
 Visite meus repositórios e conheça as minhas especialidades, aqui estão algumas delas:
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,javascript,nodejs,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,vite,javascript,nodejs,sqlite,prisma,supabase,postgresql,mysql,express,mongodb)](https://skillicons.dev)
 
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
