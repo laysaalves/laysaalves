@@ -4,7 +4,7 @@ I've been in the world of technology since I was a child, I'm a robotics enthusi
 
 Visit my repositories and get to know my hard skills, here are some of them:
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,javascript,nodejs,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,vite,javascript,nodejs,sqlite,prisma,supabase,postgresql,mysql,express,mongodb)](https://skillicons.dev)
 
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
