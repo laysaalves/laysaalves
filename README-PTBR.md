@@ -6,14 +6,18 @@ Visite meus repositórios e conheça as minhas especialidades, aqui estão algum
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,vite,javascript,nodejs,sqlite,prisma,supabase,postgresql,mysql,express,mongodb)](https://skillicons.dev)
 
+### Rotineiramente, as que mais uso são:
 - [React Native](https://reactnative.dev/)
+- [Prisma](https://www.prisma.io/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind](https://tailwindcss.com/)
 - [NextJS](https://nextjs.org/)
+- [ViteJS](https://vitejs.dev/)
 - [React](https://react.dev/)
+- [Shadcn/ui](https://ui.shadcn.com/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [NodeJS](https://nodejs.org/docs/latest/api/)
-- Bancos de dados relacionais e não relacionais: [SQLite](https://www.sqlite.org/) | [MySQL](https://dev.mysql.com/doc/) | [MongoDB](https://www.mongodb.com/docs/)
+- Relational and Non-Relational Databases: [SQLite](https://www.sqlite.org/) | [PostgreSQL](https://www.postgresql.org/) | [MongoDB](https://www.mongodb.com/docs/)
 
 Conecte-se comigo em outras redes:
 
