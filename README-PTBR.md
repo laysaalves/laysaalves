@@ -8,11 +8,11 @@ Visite meus repositórios e conheça as minhas especialidades, aqui estão algum
 
 ### Atualmente, minha rotina como Desenvolvedora consiste em:
 
-Criar projetos pessoais e contribuir com a comunidade, aprimorando minhas habilidades em Desenvolvimento Web Full Stack, principalmente usando essas tecnologias: [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [TypeScript](https://www.typescriptlang.org/) | [ReactJS](https://react.dev/) | [Tailwind](https://tailwindcss.com/) | [ViteJS](https://vitejs.dev/) | [NextJS](https://nextjs.org/) | [ShadcnUI](https://ui.shadcn.com/) | [NodeJS](https://nodejs.org/docs/latest/api/) | [Prisma](https://www.prisma.io/)
+Criar projetos pessoais e contribuir com a comunidade, aprimorando minhas habilidades em Desenvolvimento Web Full Stack, principalmente usando [ReactJS](https://react.dev/) com bibliotecas famosas, como: [ViteJS](https://vitejs.dev/) | [NextJS](https://nextjs.org/) entre outras;
 
-Também produzo no Desenvolvimento Mobile (iOS/Android), que é minha Stack principal hoje, pois me encontrei nela depois de muito tempo criando designs responsivos: [React Native](https://reactnative.dev/) | [NativeWind](https://www.nativewind.dev/) | [Expo](https://expo.dev/) | [Zustand](https://zustand-demo.pmnd.rs/) | [Zod](https://zod.dev/) | [Axios](https://github.com/axios/axios)
+Também produzo no Desenvolvimento Mobile (iOS/Android), que é minha Stack principal hoje, pois me encontrei nela depois de construir muitos designs responsivos: [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [React Native](https://reactnative.dev/) | [TypeScript](https://www.typescriptlang.org/) | [NativeWind](https://www.nativewind.dev/) | [Expo](https://expo.dev/) | [Prisma](https://www.prisma.io/) | [Zustand](https://zustand-demo.pmnd.rs/) | [Zod](https://zod.dev/) | [Axios](https://github.com/axios/axios)...
 
-Além de APIs REST utilizando Node.js e Express, também tenho conhecimento em Banco de dados relacionais e não relacionais para ambas as áreas, principalmente: [SQLite](https://www.sqlite.org/) | [PostgreSQL](https://www.postgresql.org/) | [MongoDB](https://www.mongodb.com/docs/)
+Além de APIs REST utilizando [NodeJS](https://nodejs.org/docs/latest/api/) e [Express](https://expressjs.com/pt-br/), também tenho conhecimento em Banco de dados relacionais e não relacionais para ambas as áreas, principalmente: [SQLite](https://www.sqlite.org/) | [PostgreSQL](https://www.postgresql.org/) | [MongoDB](https://www.mongodb.com/docs/)
 
 Conecte-se comigo em outras redes:
 
