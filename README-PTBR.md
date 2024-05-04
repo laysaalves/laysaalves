@@ -10,7 +10,7 @@ Visite meus repositórios e conheça as minhas especialidades, aqui estão algum
 
 Criar projetos pessoais e contribuir com a comunidade, aprimorando minhas habilidades em Desenvolvimento Web Full Stack, principalmente usando essas tecnologias: [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [TypeScript](https://www.typescriptlang.org/) | [ReactJS](https://react.dev/) | [Tailwind](https://tailwindcss.com/) | [ViteJS](https://vitejs.dev/) | [NextJS](https://nextjs.org/) | [ShadcnUI](https://ui.shadcn.com/) | [NodeJS](https://nodejs.org/docs/latest/api/) | [Prisma](https://www.prisma.io/)
 
-Também produzo no Desenvolvimento Mobile Nativo, que é minha Stack principal hoje, pois me encontrei nela depois de muito tempo criando designs responsivos: [React Native](https://reactnative.dev/) | [NativeWind](https://www.nativewind.dev/) | [Expo](https://expo.dev/) | [Zustand](https://zustand-demo.pmnd.rs/) | [Zod](https://zod.dev/) | [Axios](https://github.com/axios/axios)
+Também produzo no Desenvolvimento Mobile (iOS/Android), que é minha Stack principal hoje, pois me encontrei nela depois de muito tempo criando designs responsivos: [React Native](https://reactnative.dev/) | [NativeWind](https://www.nativewind.dev/) | [Expo](https://expo.dev/) | [Zustand](https://zustand-demo.pmnd.rs/) | [Zod](https://zod.dev/) | [Axios](https://github.com/axios/axios)
 
 Além de APIs REST utilizando Node.js e Express, também tenho conhecimento em Banco de dados relacionais e não relacionais para ambas as áreas, principalmente: [SQLite](https://www.sqlite.org/) | [PostgreSQL](https://www.postgresql.org/) | [MongoDB](https://www.mongodb.com/docs/)
 
