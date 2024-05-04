@@ -10,7 +10,7 @@ Visit my repositories and get to know my hard skills, here are some of them:
 
 Creating personal projects and contributing to the community, improving my skills in Full Stack Web development, mainly using these technologies: [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [TypeScript](https://www.typescriptlang.org/) | [ReactJS](https://react.dev/) | [Tailwind](https://tailwindcss.com/) | [ViteJS](https://vitejs.dev/) | [NextJS](https://nextjs.org/) | [ShadcnUI](https://ui.shadcn.com/) | [NodeJS](https://nodejs.org/docs/latest/api/) | [Prisma](https://www.prisma.io/)
 
-I also produce in Native Mobile Development, which is my main stack today since I found myself in it after a long time building responsive designs: [React Native](https://reactnative.dev/) | [NativeWind](https://www.nativewind.dev/) | [Expo](https://expo.dev/) | [Zustand](https://zustand-demo.pmnd.rs/) | [Zod](https://zod.dev/) | [Axios](https://github.com/axios/axios)
+I also produce in Native Mobile Development (iOS/Android), which is my main stack today since I found myself in it after a long time building responsive designs: [React Native](https://reactnative.dev/) | [NativeWind](https://www.nativewind.dev/) | [Expo](https://expo.dev/) | [Zustand](https://zustand-demo.pmnd.rs/) | [Zod](https://zod.dev/) | [Axios](https://github.com/axios/axios)
 
 In addition to REST APIs using Node.js and Express, I also have knowledge of Relational and Non-Relational Databases for both areas, mainly: [SQLite](https://www.sqlite.org/) | [PostgreSQL](https://www.postgresql.org/) | [MongoDB](https://www.mongodb.com/docs/)
 
