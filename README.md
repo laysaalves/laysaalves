@@ -10,7 +10,7 @@ Visit my repositories and get to know my hard skills, here are some of them:
 
 Create personal projects and contribute to the community, improving my skills in Mobile Development (iOS/Android), which is my current stack, using frequently: [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [React Native](https://reactnative.dev/) | [TypeScript](https://www.typescriptlang.org/) | [NativeWind](https://www.nativewind.dev/) | [Expo](https://expo.dev/) | [Prisma](https://www.prisma.io/)... And a bit of [Java](https://www.oracle.com/br/java/technologies/downloads/) & [Kotlin](https://kotlinlang.org/)...
 
-In addition to REST APIs using [NodeJS](https://nodejs.org/docs/latest/api/) and [Express](https://expressjs.com/pt-br/), I also have knowledge of Relational and Non-Relational Databases for both areas, mainly: [SQLite](https://www.sqlite.org/) | [PostgreSQL](https://www.postgresql.org/) | [MongoDB](https://www.mongodb.com/docs/).
+In addition to REST APIs using [NodeJS](https://nodejs.org/docs/latest/api/) and [Express](https://expressjs.com/pt-br/), I also have knowledge of Relational and Non-Relational Databases, mainly: [SQLite](https://www.sqlite.org/) | [PostgreSQL](https://www.postgresql.org/) | [MongoDB](https://www.mongodb.com/docs/).
 
 You can find me at:
 
