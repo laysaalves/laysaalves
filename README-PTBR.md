@@ -10,7 +10,7 @@ Atualmente, minha rotina como Desenvolvedora consiste em:
 
 Criar projetos pessoais e contribuir com a comunidade, aprimorando minhas habilidades em  Desenvolvimento Mobile (iOS/Android), que é minha Stack atual, utilizando frequentemente: [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [React Native](https://reactnative.dev/) | [TypeScript](https://www.typescriptlang.org/) | [NativeWind](https://www.nativewind.dev/) | [Expo](https://expo.dev/) | [Prisma](https://www.prisma.io/)... E um pouco de [Java](https://www.oracle.com/br/java/technologies/downloads/) e [Kotlin](https://kotlinlang.org/)...
 
-Além de APIs REST utilizando [NodeJS](https://nodejs.org/docs/latest/api/) e [Express](https://expressjs.com/pt-br/), também tenho conhecimento em Banco de dados relacionais e não relacionais para ambas as áreas, principalmente: [SQLite](https://www.sqlite.org/) | [PostgreSQL](https://www.postgresql.org/) | [MongoDB](https://www.mongodb.com/docs/).
+Além de APIs REST utilizando [NodeJS](https://nodejs.org/docs/latest/api/) e [Express](https://expressjs.com/pt-br/), também tenho conhecimento em Banco de dados relacionais e não relacionais, principalmente: [SQLite](https://www.sqlite.org/) | [PostgreSQL](https://www.postgresql.org/) | [MongoDB](https://www.mongodb.com/docs/).
 
 Conecte-se comigo em outras redes:
 
