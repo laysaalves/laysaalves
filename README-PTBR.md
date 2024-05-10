@@ -1,6 +1,6 @@
 <a href="https://github.com/laysaalves/laysaalves/blob/main/README.md">Don't speak Portuguese? Click here to view the english version!</a>
 
-Estou no mundo da tecnologia desde criança (ganhei meu primeiro notebook com 4 anos de idade!), sou entusiasta em robótica e gosto me dedicar 100% em projetos que aquecem minha criatividade. Não perco oportunidades de melhorar como pessoa e profissionalmente, além de acreditar no poder da produtividade de um ambiente saudável para qualquer equipe da qual eu faça parte.
+Estou no mundo da tecnologia desde criança, sou entusiasta em robótica e gosto me dedicar 100% em projetos que aquecem minha criatividade. Não perco oportunidades de melhorar como pessoa e profissionalmente, além de acreditar no poder da produtividade de um ambiente saudável para qualquer equipe da qual eu faça parte.
 
 ### Visite meus repositórios e conheça as minhas especialidades, aqui estão algumas delas:
 
