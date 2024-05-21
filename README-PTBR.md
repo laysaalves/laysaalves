@@ -1,23 +1,31 @@
 <a href="https://github.com/laysaalves/laysaalves/blob/main/README.md">Don't speak Portuguese? Click here to view the english version!</a>
 
-Estou no mundo da tecnologia desde criança, sou entusiasta em robótica e gosto me dedicar 100% em projetos que aquecem minha criatividade. Não perco oportunidades de melhorar como pessoa e profissionalmente, além de acreditar no poder da produtividade de um ambiente saudável para qualquer equipe da qual eu faça parte.
+## Seja bem vindo(a) ao meu GitHub 🧡
 
-### Visite meus repositórios e conheça as minhas especialidades, aqui estão algumas delas:
+<p>Estou no mundo da tecnologia desde criança, sou entusiasta em robótica e gosto me dedicar 100% em projetos que aquecem minha criatividade. Não perco oportunidades de melhorar como pessoa e profissionalmente, além de acreditar no poder da produtividade de um ambiente saudável para qualquer equipe da qual eu faça parte.</p>
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,javascript,nodejs,sqlite,prisma,postgresql,mysql,express,mongodb)](https://skillicons.dev)
+## Detalhes sobre mim
 
-Atualmente, minha rotina como Desenvolvedora consiste em:
+* **Idade:** 18
+* **Moro em:** Sergipe, Brasil
+* **Estou aprendendo:** Java com POO para aplicações em Kotlin
+* **Universidade:** Eu quero estudar em uma, mas por enquanto sou apenas Técnica em Redes de computadores pelo SENAI
+* **Prizes:** 3° lugar com um projeto usando React Native + Gemini AI na **[Imersão AI da Alura + Google Brasil 2024](https://www.alura.com.br/artigos/top5-projetos-imersao-ia)**
 
-Criar projetos pessoais e contribuir com a comunidade, aprimorando minhas habilidades em  Desenvolvimento Mobile (iOS/Android), que é minha Stack atual, utilizando frequentemente: [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [React Native](https://reactnative.dev/) | [TypeScript](https://www.typescriptlang.org/) | [NativeWind](https://www.nativewind.dev/) | [Expo](https://expo.dev/) | [Prisma](https://www.prisma.io/)... E um pouco de [Java](https://www.oracle.com/br/java/technologies/downloads/) e [Kotlin](https://kotlinlang.org/)...
+**Conecte-se comigo em:**
 
-Além de APIs REST utilizando [NodeJS](https://nodejs.org/docs/latest/api/) e [Express](https://expressjs.com/pt-br/), também tenho conhecimento em Banco de dados relacionais e não relacionais, principalmente: [SQLite](https://www.sqlite.org/) | [PostgreSQL](https://www.postgresql.org/) | [MongoDB](https://www.mongodb.com/docs/).
+**[LinkedIn](https://www.linkedin.com/in/laysaalves/)** <br />
+**[@layseiras_  no Instagram](https://instagram.com/layseiras_)** <br />
 
-Conecte-se comigo em outras redes:
+---
+## Visite meus repositórios e conheça as minhas especialidades, aqui estão algumas delas:
 
-[LinkedIn](https://www.linkedin.com/in/laysaalves/) <br />
-[@layseiras_  lá no Instagram](https://instagram.com/layseiras_) <br />
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,react,ts,javascript,tailwind,nodejs,postgresql,mysql,express,sqlite,prisma,mongodb)](https://skillicons.dev)
 
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=laysaalves&show_icons=true&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+### Currently, my routine as a Developer consists of:
+
+- Criar projetos pessoais e contribuir com a comunidade, aprimorando minhas habilidades em  Desenvolvimento Mobile Android, que é minha Stack atual, utilizando frequentemente: [Java](https://www.oracle.com/br/java/technologies/downloads/) & **[Kotlin](https://kotlinlang.org/)**...
+
+- Eu escolhi o Desenvolvimento Mobile por ter muita experiência como usuária, então comecei minha carreira construindo aplicativos híbridos com **[React Native](https://reactnative.dev/)** e fui requisitada para alguns trabalhos freelancers, principalmente para desenvolver interfaces. Eu exploro essa área com: [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [TypeScript](https://www.typescriptlang.org/) | [NativeWind](https://www.nativewind.dev/) | [Expo](https://expo.dev/)...
+
+- Além de APIs REST utilizando [NodeJS](https://nodejs.org/docs/latest/api/) e [Express](https://expressjs.com/pt-br/), também tenho conhecimento em Banco de dados relacionais e não relacionais, principalmente: [SQLite](https://www.sqlite.org/) | [PostgreSQL](https://www.postgresql.org/) | [MongoDB](https://www.mongodb.com/docs/)...
