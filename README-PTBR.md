@@ -20,7 +20,7 @@
 ---
 ## Visite meus repositórios e conheça as minhas especialidades, aqui estão algumas delas:
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,react,ts,javascript,tailwind,nodejs,postgresql,mysql,express,sqlite,prisma,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,react,ts,javascript,tailwind,nodejs,mysql,express,sqlite,prisma,mongodb)](https://skillicons.dev)
 
 ### Currently, my routine as a Developer consists of:
 
@@ -28,4 +28,4 @@
 
 - Eu escolhi o Desenvolvimento Mobile por ter muita experiência como usuária, então comecei minha carreira construindo aplicativos híbridos com **[React Native](https://reactnative.dev/)** e fui requisitada para alguns trabalhos freelancers, principalmente para desenvolver interfaces. Eu exploro essa área com: [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [TypeScript](https://www.typescriptlang.org/) | [NativeWind](https://www.nativewind.dev/) | [Expo](https://expo.dev/)...
 
-- Além de APIs REST utilizando [NodeJS](https://nodejs.org/docs/latest/api/) e [Express](https://expressjs.com/pt-br/), também tenho conhecimento em Banco de dados relacionais e não relacionais, principalmente: [SQLite](https://www.sqlite.org/) | [PostgreSQL](https://www.postgresql.org/) | [MongoDB](https://www.mongodb.com/docs/)...
+- Além de APIs REST utilizando [NodeJS](https://nodejs.org/docs/latest/api/) e [Express](https://expressjs.com/pt-br/), também tenho conhecimento em Banco de dados relacionais e não relacionais, principalmente: [SQLite](https://www.sqlite.org/) | [MySQL](https://dev.mysql.com/doc/) | [MongoDB](https://www.mongodb.com/docs/)...
