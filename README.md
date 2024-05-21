@@ -9,7 +9,7 @@
 * **Age:** 18
 * **Living:** Sergipe, Brazil
 * **Learning:** Java with OOP for Kotlin applications
-* **University:** I want to join one, but today I'm only a Computer Network Technician at SENAI
+* **University:** I want to study at one, but for now I'm just Computer Network Technician at SENAI
 * **Prizes:** 3rd place with a project using React Native + Gemini AI in the **[Alura & Google Brazil 2024 Immersion](https://www.alura.com.br/artigos/top5-projetos-imersao-ia)**
 
 **You can find me at:**
