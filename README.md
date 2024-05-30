@@ -15,7 +15,7 @@
 **You can find me at:**
 
 **[LinkedIn](https://www.linkedin.com/in/laysaalves/)** <br />
-**[@layseiras_  at Instagram](https://instagram.com/layseiras_)** <br />
+**[Instagram](https://instagram.com/layseiras_)** <br />
 
 ---
 ## Visit my repositories and get to know my hard skills, here are some of them:
