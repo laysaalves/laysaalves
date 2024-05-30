@@ -15,7 +15,7 @@
 **Conecte-se comigo em:**
 
 **[LinkedIn](https://www.linkedin.com/in/laysaalves/)** <br />
-**[@layseiras_  no Instagram](https://instagram.com/layseiras_)** <br />
+**[Instagram](https://instagram.com/layseiras_)** <br />
 
 ---
 ## Visite meus repositórios e conheça as minhas especialidades, aqui estão algumas delas:
