@@ -20,12 +20,8 @@
 ---
 ## Visit my repositories and get to know my hard skills, here are some of them:
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,react,ts,javascript,tailwind,nodejs,mysql,express,sqlite,prisma,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,javascript,tailwind,nodejs,sqlite,prisma)](https://skillicons.dev)
 
 ### Currently, my routine as a Developer consists of:
 
-* Create personal projects and contribute to the community, improving my skills in Mobile Development Android, which is my new stack, using frequently: [Java](https://www.oracle.com/br/java/technologies/downloads/) | **[Kotlin](https://kotlinlang.org/)**...
-
-* I chose Mobile Development because I have a lot of experience as a user, so I started my career building hybrid apps with **[React Native](https://reactnative.dev/)** and was asked to do freelance work, using: [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [TypeScript](https://www.typescriptlang.org/) | [NativeWind](https://www.nativewind.dev/) | [Expo](https://expo.dev/)...
-
-* In addition to REST APIs using [NodeJS](https://nodejs.org/docs/latest/api/) and [Express](https://expressjs.com/pt-br/), I also have knowledge of Relational and Non-Relational Databases, mainly: [SQLite](https://www.sqlite.org/) | [MySQL](https://dev.mysql.com/doc/) | [MongoDB](https://www.mongodb.com/docs/)...
+* Creating personal projects and contributing to the community honing my skills in mobile development, so I started my career creating end-to-end hybrid apps with [React Native](https://reactnative.dev/) and was asked to do freelance work, using: [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [TypeScript](https://www.typescriptlang.org/) | [NativeWind](https://www.nativewind.dev/) | [Expo](https://expo.dev/)...
